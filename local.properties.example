@@ -1,0 +1,6 @@
+# Copia este archivo a local.properties (NO se sube a git)
+# y agrega tu API key de Google Maps:
+#   sdk.dir=C:\\Users\\tuUsuario\\AppData\\Local\\Android\\Sdk
+#   MAPS_API_KEY=AIzaSyTuClaveAqui
+sdk.dir=
+MAPS_API_KEY=
